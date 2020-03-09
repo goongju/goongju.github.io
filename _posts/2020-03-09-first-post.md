@@ -1,6 +1,6 @@
 ---
 title: "첫 게시물!"
-date: 2020-03-10 08:26:28 -0400
+date: 2020-03-09 11:58:05 -0400
 categories: jekyll update
 ---
 
